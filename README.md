@@ -1,2 +1,1 @@
-# zestyx-mockup
-Free for Everyone
+<h1>Welcome to Zestyx Mockup</h1>
